@@ -5,7 +5,8 @@
 My coding skills aren't great, documentation is more my forte.
 
 📫 How to reach me:
-- Send me a tweet: https://twitter.com/twcau
+- Send me a toot: https://mastodon.social/twcau
+- Find me on Bluesky: https://bsky.app/profile/crispykangaroo.com
 - Contact me via my website: https://crispykangaroo.com/
 
 <!---
